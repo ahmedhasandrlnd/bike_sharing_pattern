@@ -8,7 +8,6 @@ The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.
 	```
 	git clone https://github.com/udacity/deep-learning-v2-pytorch.git.
 	```
-The files in the GitHub repo are the most up to date, so it's the best place to get the project files.
 1. cd into the project-bikesharing directory.
 1. Download anaconda or miniconda based on the instructions in the [Anaconda lesson](https://classroom.udacity.com/nanodegrees/nd101/parts/2a9dba0b-28eb-4b0e-acfa-bdcf35680d90/modules/aba54606-cf35-4a77-b643-efec6a90bfa1/lessons/9e9ed61d-20c3-4431-95aa-a1099f28d601/concepts/4cdc5a26-1e54-4a69-8eb4-f15e37aaab7b). These are also outlined in the repository README.
 1. Create a new conda environment:
