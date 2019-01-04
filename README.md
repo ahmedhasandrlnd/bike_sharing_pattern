@@ -5,7 +5,8 @@ The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.
 
 ## Instructions
 1. Download the project materials from Udacity's [GitHub repository](https://github.com/udacity/deep-learning-v2-pytorch). You can get download the repository with 
-```git clone https://github.com/udacity/deep-learning-v2-pytorch.git.
+```
+git clone https://github.com/udacity/deep-learning-v2-pytorch.git.
 ```
 The files in the GitHub repo are the most up to date, so it's the best place to get the project files.
 1. cd into the project-bikesharing directory.
